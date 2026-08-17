@@ -54,16 +54,15 @@ st.markdown("""
     header {visibility: hidden;}
     
     .main-header {
-        font-size: 75px !important;
+        font-size: 48px !important;
         font-weight: 900 !important;
         color: #0f172a !important;
-        margin-bottom: -5px !important;
-        letter-spacing: -2px !important;
+        margin-bottom: -10px !important;
+        letter-spacing: -1.5px !important;
         text-align: center !important;
-        line-height: 1.2 !important;
     }
     .sub-header {
-        font-size: 22px !important;
+        font-size: 18px !important;
         font-weight: 500 !important;
         color: #64748b !important;
         margin-bottom: 40px !important;
