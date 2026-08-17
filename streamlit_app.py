@@ -54,19 +54,20 @@ st.markdown("""
     header {visibility: hidden;}
     
     .main-header {
-        font-size: 56px;
-        font-weight: 900;
-        color: #0f172a;
-        margin-bottom: -15px;
-        letter-spacing: -1.5px;
-        text-align: center;
+        font-size: 75px !important;
+        font-weight: 900 !important;
+        color: #0f172a !important;
+        margin-bottom: -5px !important;
+        letter-spacing: -2px !important;
+        text-align: center !important;
+        line-height: 1.2 !important;
     }
     .sub-header {
-        font-size: 18px;
-        font-weight: 500;
-        color: #64748b;
-        margin-bottom: 40px;
-        text-align: center;
+        font-size: 22px !important;
+        font-weight: 500 !important;
+        color: #64748b !important;
+        margin-bottom: 40px !important;
+        text-align: center !important;
     }
     
     .stTextArea textarea {
