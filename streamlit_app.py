@@ -175,7 +175,6 @@ if st.button("Execute NLP Analysis 🚀", use_container_width=True):
                     <p style='color: #065f46; margin:8px 0 0 0; font-size:16px; font-weight:500;'>No phishing or spam signatures detected.</p>
                 </div>
                 """, unsafe_allow_html=True)
-                st.balloons()
                 
                 m1, m2, m3 = st.columns(3)
                 m1.metric(label="Action Required", value="None")
